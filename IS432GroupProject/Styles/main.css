@@ -1,0 +1,20 @@
+﻿body {
+    background-color: lightgrey !important;
+}
+.FileUploadClass {
+    display: inline-block;
+}
+.FileUploadClass input[type=text] {
+    display: none;
+}
+.container-sidebar{
+    float: right;
+    width: 10rem;
+}
+.container-header{
+    height: 3rem;
+    margin-bottom: .5rem;
+}
+.container-body{
+    margin-right: 4.5rem;
+}
